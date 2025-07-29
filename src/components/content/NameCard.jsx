@@ -15,7 +15,7 @@ export default function NameCard() {
 
                 <h1 className="text-5xl md:text-6xl font-fancy mb-6">
                     <span className="animated-gradient bg-gradient-to-r from-pink-400 via-purple-500 to-blue-400 bg-[length:200%_200%] text-transparent bg-clip-text animate-gradient">
-                        Pretty
+                        Preeti
                     </span>
                 </h1>
 
