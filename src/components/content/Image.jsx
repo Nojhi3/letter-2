@@ -12,7 +12,7 @@ export default function Image() {
             >
                 <div className="mx-auto max-w-xl rounded-xl overflow-hidden shadow-xl border-4 border-rosePink">
                     <img
-                        src="../public/main-pic.jpg" // Replace this with your image path
+                        src="main-pic.jpg" // Replace this with your image path
                         alt="Captured memory"
                         className="w-full h-auto object-cover"
                     />
