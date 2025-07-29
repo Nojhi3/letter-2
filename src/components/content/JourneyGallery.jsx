@@ -4,19 +4,19 @@ const memories = [
     {
         id: 1,
         image: "pic-one.jpg",
-        text: "Our very first picture together 💕 aisubxciadjbcijbdwsijcbdsbjcbdsjbcsdb kjcdskcnkdsnkmndsamnxdsnakn dksn dnsndsnxlndsnxdsnxndsnxkj",
+        text: "To the day we both were happy with a 38 in English and ma'am appreciated us, to the initial days when we started becoming close to each other, moments I’ll always recall… and be endlessly grateful for.",
         direction: "right",
     },
     {
         id: 2,
         image: "pic-two.jpg",
-        text: "That random laugh that made everything better 🤭",
+        text: "You turned 18. And trust me, those were some of the best days — when we were genuinely excited, full of energy, planning surprises, and putting our hearts into each other’s birthdays like they meant the world. I still remember how you found your gift, playing that little treasure hunt... and someone didn’t know (or conveniently forgot 😤) my phone number. From the day filled with endless laughter, pretty pictures, and memories I’ll never let go of ♥️",
         direction: "left",
     },
     {
         id: 3,
         image: "pic-three.jpg",
-        text: "The day we made a thousand memories in one sunset 🌇",
+        text: "haha \n introduced to Khushi's boyfriend blowing together...pretty rough but worth remembering still recall how excited you were to get your first tattoo ..that is one special moment to me as well how i saw you getting ur first tattoo and u seemed happy for once but not so happy for the dragon fly, but trust me... to me they seemed pretty 🍀✨",
         direction: "right",
     },
     // Add more memories here
